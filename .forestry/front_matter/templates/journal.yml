@@ -36,5 +36,6 @@ fields:
   label: Author
   default: Nichlas W. Andersen
 pages:
+- journal/kendrick-dope.md
 - journal/macos-development-environment.md
 - journal/testing-dope-tech.md
