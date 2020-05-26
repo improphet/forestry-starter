@@ -8,3 +8,7 @@ project_fg_color: ''
 
 ---
 He's Here!
+
+![](/uploads/dopekend.jpg "Lol")
+
+# Our King Kendrick
