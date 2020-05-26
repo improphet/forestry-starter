@@ -1,4 +1,5 @@
 {
+  "deploy": "gh-pages -b master -d dist",
   "name": "itsnwa.com",
   "private": true,
   "scripts": {
