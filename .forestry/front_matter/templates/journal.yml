@@ -35,6 +35,14 @@ fields:
     - Nichlas W. Andersen
   label: Author
   default: Nichlas W. Andersen
+- name: color_background
+  type: color
+  label: Color background
+  config:
+    required: false
+    color_format: RGB
+  description: Color background
+  default: rgb(207, 61, 61)
 pages:
 - journal/kendrick-dope.md
 - journal/macos-development-environment.md
